@@ -88,10 +88,12 @@ One structural observation: August 2024 is completely absent from the cohort dat
 
 ## 5. Dashboard
 
-🔗 [View Dashboard](https://lookerstudio.google.com/s/hPIl6k-evdw)
+🔗 [View Dashboard]([https://lookerstudio.google.com/s/hPIl6k-evdw](https://lookerstudio.google.com/reporting/ad993485-e597-4de9-bd28-92c4f8da607f))
 
 - **Page 1 — MRR Overview**: dual-axis line chart (MRR + active customers) and a combo bar chart showing New, Expansion, Contraction, and Lost MRR per month. Negative values for Contraction and Lost are intentional — they subtract from MRR in the waterfall logic.
+
 - **Page 2 — Cohort Retention**: pivot heatmap filtered from month 12 onwards with retained MRR in EUR and a green-to-red colour scale, focusing on renewal behaviour rather than the flat 100% in-contract period.
+  Retention % is added as an optional metric, you can select both metrics together or separately.
 
 ---
 
