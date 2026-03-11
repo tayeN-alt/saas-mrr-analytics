@@ -97,7 +97,7 @@ One structural observation: August 2024 is completely absent from the cohort dat
 
 ---
 
-## 6. If I Had More Time
+## 6. What I Would Have Done Differently
 
 - **Migrate to dbt** — the file structure already maps directly to dbt models. Adding tests for unique keys, not-null constraints, and referential integrity would make the pipeline production-ready.
 - **Make the calendar spine dynamic** — currently hardcoded to 2023-01 through 2026-06. Should derive boundaries from MIN/MAX subscription dates so it stays accurate as new data arrives.
