@@ -1,8 +1,8 @@
-# SaaS MRR Analytics — Project Documentation
+# Project Documentation
 
 ## Overview
 
-I built this project to transform raw subscription and order data into a functional MRR engine. I handled the entire pipeline — from ingestion and cleaning to calculating revenue movements and cohort retention — using SQL for the transformations and Python for orchestration.
+I built this assignment to transform raw subscription and order data into a functional MRR engine. I handled the entire pipeline — from ingestion and cleaning to calculating revenue movements and cohort retention — using SQL for the transformations and Python for orchestration.
 
 ---
 
